@@ -1,0 +1,241 @@
+{
+ "updated": "2026-11-14T18:21:32+00:00",
+ "categories": [
+  {
+   "id": "bcs",
+   "title": "বিসিএস প্রিলি",
+   "subtitle": "সাধারণ জ্ঞান, বাংলা, ইংরেজি, গণিত",
+   "order": 0
+  },
+  {
+   "id": "eee",
+   "title": "ইলেকট্রিক্যাল (EEE)",
+   "subtitle": "সহকারী প্রকৌশলী প্রস্তুতি",
+   "order": 1
+  },
+  {
+   "id": "ce",
+   "title": "সিভিল (CE)",
+   "subtitle": "সহকারী প্রকৌশলী প্রস্তুতি",
+   "order": 2
+  },
+  {
+   "id": "me",
+   "title": "মেকানিক্যাল (ME)",
+   "subtitle": "সহকারী প্রকৌশলী প্রস্তুতি",
+   "order": 3
+  },
+  {
+   "id": "duet",
+   "title": "ডুয়েট ভর্তি",
+   "subtitle": "ডিপ্লোমা থেকে বিএসসি ভর্তি প্রস্তুতি",
+   "order": 4
+  },
+  {
+   "id": "sae",
+   "title": "উপ-সহকারী প্রকৌশলী",
+   "subtitle": "ডিপ্লোমা প্রকৌশলীদের নিয়োগ প্রস্তুতি",
+   "order": 5
+  }
+ ],
+ "blueprints": [
+  {
+   "id": "duet-p1",
+   "category": "duet",
+   "title": "ডুয়েট প্রথম পত্র মডেল টেস্ট",
+   "subtitle": "রসায়ন, পদার্থ, গণিত, ইংরেজি · ২০২১-২২ বিজ্ঞপ্তির মানবণ্টনের অনুপাতে",
+   "minutes": 60,
+   "negative": 0.0,
+   "subjects": {
+    "রসায়ন": 20,
+    "পদার্থবিজ্ঞান": 20,
+    "গণিত": 20,
+    "ইংরেজি": 15
+   }
+  }
+ ],
+ "packs": [
+  {
+   "id": "bcs-prev",
+   "version": 4,
+   "title": "BCS · বিগত বিসিএস প্রশ্ন (ব্যাখ্যাসহ)",
+   "category": "bcs",
+   "count": 192,
+   "math": 0,
+   "viva": 0,
+   "chapters": 2,
+   "url": "packs/bcs-prev.json",
+   "index": "packs/bcs-prev/index.json",
+   "size": 131777,
+   "hash": "d5ff3cdc405bde6b3dbeaa358ff2c05edf4e6b08"
+  },
+  {
+   "id": "bcs-sample",
+   "version": 1,
+   "title": "বিসিএস প্রিলি · নমুনা",
+   "category": "bcs",
+   "count": 21,
+   "math": 0,
+   "viva": 0,
+   "chapters": 18,
+   "url": "packs/bcs-sample.json",
+   "index": "packs/bcs-sample/index.json",
+   "size": 12659,
+   "hash": "c3c208db140f65c68821f679a52f3b4fba800ddb"
+  },
+  {
+   "id": "bcs-written",
+   "version": 2,
+   "title": "লিখিত প্রস্তুতি · সাধারণ জ্ঞান",
+   "category": "bcs",
+   "count": 8,
+   "math": 0,
+   "viva": 8,
+   "chapters": 5,
+   "url": "packs/bcs-written.json",
+   "index": "packs/bcs-written/index.json",
+   "size": 12814,
+   "hash": "2f17d93140bfe36e768ec4a601cb18c6ed3f5e34"
+  },
+  {
+   "id": "ce-prev",
+   "version": 3,
+   "title": "সিভিল · বিগত সালের প্রশ্ন (ব্যাখ্যাসহ)",
+   "category": "ce",
+   "count": 92,
+   "math": 0,
+   "viva": 0,
+   "chapters": 1,
+   "url": "packs/ce-prev.json",
+   "index": "packs/ce-prev/index.json",
+   "size": 59625,
+   "hash": "5b23446e8fd58743f62d100aade45a2dcb21afe0"
+  },
+  {
+   "id": "duet-sample",
+   "version": 1,
+   "title": "ডুয়েট ভর্তি · নমুনা প্রশ্ন",
+   "category": "duet",
+   "count": 14,
+   "math": 0,
+   "viva": 0,
+   "chapters": 12,
+   "url": "packs/duet-sample.json",
+   "index": "packs/duet-sample/index.json",
+   "size": 6306,
+   "hash": "464ca38b06e4515b755f1578e195c0c778e590a3"
+  },
+  {
+   "id": "eee-math-sample",
+   "version": 1,
+   "title": "EEE · ম্যাথ সলভ (নমুনা)",
+   "category": "eee",
+   "count": 7,
+   "math": 7,
+   "viva": 0,
+   "chapters": 6,
+   "url": "packs/eee-math-sample.json",
+   "index": "packs/eee-math-sample/index.json",
+   "size": 5025,
+   "hash": "26b25d8d164fe0c16d34c9d3045532f153c65504"
+  },
+  {
+   "id": "eee-prev",
+   "version": 1,
+   "title": "EEE · বিগত সালের প্রশ্ন (সমাধানসহ)",
+   "category": "eee",
+   "count": 124,
+   "math": 0,
+   "viva": 0,
+   "chapters": 3,
+   "url": "packs/eee-prev.json",
+   "index": "packs/eee-prev/index.json",
+   "size": 83458,
+   "hash": "10e4d3c7741cc43ee00c796b15062035f4a49e0c"
+  },
+  {
+   "id": "eee-sample",
+   "version": 1,
+   "title": "EEE · নমুনা প্রশ্ন",
+   "category": "eee",
+   "count": 16,
+   "math": 0,
+   "viva": 0,
+   "chapters": 12,
+   "url": "packs/eee-sample.json",
+   "index": "packs/eee-sample/index.json",
+   "size": 11956,
+   "hash": "1c08240907147a4ad385ff6e89d48cf9216db744"
+  },
+  {
+   "id": "eee-viva-sample",
+   "version": 1,
+   "title": "EEE · ভাইভা ও ইন্টারভিউ (নমুনা)",
+   "category": "eee",
+   "count": 10,
+   "math": 0,
+   "viva": 10,
+   "chapters": 5,
+   "url": "packs/eee-viva-sample.json",
+   "index": "packs/eee-viva-sample/index.json",
+   "size": 10107,
+   "hash": "4891e7acc4ea33ded1b7de41b669ca35e48fa785"
+  },
+  {
+   "id": "eee-written",
+   "version": 7,
+   "title": "EEE · লিখিত পরীক্ষার প্রস্তুতি",
+   "category": "eee",
+   "count": 88,
+   "math": 48,
+   "viva": 40,
+   "chapters": 26,
+   "url": "packs/eee-written.json",
+   "index": "packs/eee-written/index.json",
+   "size": 119867,
+   "hash": "9fd856379b4c8d3cf398585684f2e8199814a16c"
+  },
+  {
+   "id": "gen-prev",
+   "version": 5,
+   "title": "সাধারণ · বিভিন্ন নিয়োগ পরীক্ষার প্রশ্ন",
+   "category": "bcs",
+   "count": 247,
+   "math": 0,
+   "viva": 0,
+   "chapters": 5,
+   "url": "packs/gen-prev.json",
+   "index": "packs/gen-prev/index.json",
+   "size": 161909,
+   "hash": "ad2be7155c37f9aa426b9906771bf3299df6399b"
+  },
+  {
+   "id": "sae-sample",
+   "version": 1,
+   "title": "উপ-সহকারী প্রকৌশলী · নমুনা প্রশ্ন",
+   "category": "sae",
+   "count": 8,
+   "math": 0,
+   "viva": 0,
+   "chapters": 7,
+   "url": "packs/sae-sample.json",
+   "index": "packs/sae-sample/index.json",
+   "size": 5656,
+   "hash": "173f4649f144283b5e4287a17e94451c03fc86a7"
+  },
+  {
+   "id": "sae-written",
+   "version": 4,
+   "title": "উপ-সহকারী প্রকৌশলী · লিখিত পরীক্ষার প্রস্তুতি",
+   "category": "sae",
+   "count": 44,
+   "math": 31,
+   "viva": 13,
+   "chapters": 10,
+   "url": "packs/sae-written.json",
+   "index": "packs/sae-written/index.json",
+   "size": 56733,
+   "hash": "677fab044517b4cf9c7bdfd269acfab001f9f4e6"
+  }
+ ]
+}

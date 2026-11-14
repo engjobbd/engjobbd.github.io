@@ -1,0 +1,1 @@
+{"pack":"sae-sample","subject":"ইলেকট্রিক্যাল টেকনোলজি","chapter":"মোটর","hash":"dcabf9a88388","questions":[{"id":"sae-sample-e65dc05473e1","subject":"ইলেকট্রিক্যাল টেকনোলজি","chapter":"মোটর","q":"২ পোল, ৫০ Hz মোটরের সিনক্রোনাস স্পিড কত?","o":["১৫০০ rpm","৩০০০ rpm","১০০০ rpm","৭৫০ rpm"],"a":1,"e":"Ns = ১২০f/P = ১২০ × ৫০ ÷ ২ = ৩০০০ rpm।"}]}
