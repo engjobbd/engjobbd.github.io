@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:47:36+00:00",
+ "updated": "2026-11-16T15:10:52+00:00",
  "categories": [
   {
    "id": "bcs",
@@ -183,7 +183,7 @@
   },
   {
    "id": "eee-written",
-   "version": 7,
+   "version": 8,
    "title": "EEE · লিখিত পরীক্ষার প্রস্তুতি",
    "category": "eee",
    "count": 88,
@@ -193,7 +193,7 @@
    "url": "packs/eee-written.json",
    "index": "packs/eee-written/index.json",
    "size": 119867,
-   "hash": "9fd856379b4c8d3cf398585684f2e8199814a16c"
+   "hash": "bc0c27c140c54922902883d80c4903f4c24296d1"
   },
   {
    "id": "gen-prev",
@@ -225,7 +225,7 @@
   },
   {
    "id": "sae-written",
-   "version": 4,
+   "version": 5,
    "title": "উপ-সহকারী প্রকৌশলী · লিখিত পরীক্ষার প্রস্তুতি",
    "category": "sae",
    "count": 44,
@@ -235,7 +235,7 @@
    "url": "packs/sae-written.json",
    "index": "packs/sae-written/index.json",
    "size": 56733,
-   "hash": "677fab044517b4cf9c7bdfd269acfab001f9f4e6"
+   "hash": "84b320e1bedfc89f8f5722deddd8a68540c25a2c"
   }
  ]
 }
