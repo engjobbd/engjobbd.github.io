@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T16:48:45+00:00",
+ "updated": "2026-11-17T17:01:39+00:00",
  "categories": [
   {
    "id": "bcs",
@@ -285,5 +285,6 @@
    "size": 56733,
    "hash": "cb49d66be400e227cacc1506c22fb239b95d81d3"
   }
- ]
+ ],
+ "jobs_url": "jobs.json"
 }
