@@ -1,0 +1,1 @@
+{"pack":"govt-general-prep","subject":"গণিত","chapter":"বীজগণিত","hash":"5e941c6a4167","questions":[{"id":"govt-general-prep-346f9491e721","subject":"গণিত","chapter":"বীজগণিত","q":"x + 1/x = 5 হলে x³ + 1/x³ এর মান কত?","o":["৯৫","১২০","১১০","১২৫"],"a":2,"d":2,"src":"নিজস্ব রচনা","sol":["x³ + 1/x³ = (x + 1/x)³ − ৩(x + 1/x) = ১২৫ − ১৫ = ১১০"],"kind":"math"}]}

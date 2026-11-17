@@ -1,1 +1,1 @@
-{"pack":"duet-sample","subject":"গণিত","chapter":"লগারিদম","hash":"4e26aa5417e0","questions":[{"id":"duet-sample-c7a7ff64ad97","subject":"গণিত","chapter":"লগারিদম","q":"log₂ 32 = x হলে x-এর মান কত?","o":["৪","৫","৬","১৬"],"a":1,"e":"২⁵ = ৩২, তাই x = ৫।"}]}
+{"pack":"duet-sample","subject":"গণিত","chapter":"লগারিদম","hash":"74a9d8520347","questions":[{"id":"duet-sample-02750a641910","subject":"গণিত","chapter":"লগারিদম","q":"log₂ 32 = x হলে x-এর মান কত?","o":["৪","৫","৬","১৬"],"a":1,"e":"২⁵ = ৩২, তাই x = ৫।"}]}
