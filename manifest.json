@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:08:00+00:00",
+ "updated": "2026-11-17T16:48:45+00:00",
  "categories": [
   {
    "id": "bcs",
@@ -203,17 +203,17 @@
   },
   {
    "id": "eee-written",
-   "version": 9,
+   "version": 10,
    "title": "EEE · লিখিত পরীক্ষার প্রস্তুতি",
    "category": "eee",
-   "count": 88,
-   "math": 48,
+   "count": 111,
+   "math": 71,
    "viva": 40,
-   "chapters": 26,
+   "chapters": 27,
    "url": "packs/eee-written.json",
    "index": "packs/eee-written/index.json",
-   "size": 119867,
-   "hash": "f143d66fd8cc1bc0ec2ec9332174cc8616264de6"
+   "size": 146408,
+   "hash": "0e2a8ad9847c1976073a7b1564c5e4ad8e343069"
   },
   {
    "id": "gen-prev",
